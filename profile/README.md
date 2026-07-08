@@ -1,0 +1,3 @@
+This repository contains both source code and instructions on how to install the SonicDE third-party packages on Enterprise Linux 10 distributions like [AlmaLinux](https://almalinux.org/), [Red Hat Enterprise Linux (RHEL)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), [Oracle Linux](https://www.oracle.com/linux), and [Rocky Linux](https://rockylinux.org). SonicDE, or the Sonic Desktop Environment, aims to preserve and improve the X11-specific aspects of KDE. You can learn more about SonicDE at [sonicde.org](https://sonicde.org/).
+
+Please see our homepage on [**how to install and use**](https://sonicde-fedora-el.github.io/) the packages.
